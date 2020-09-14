@@ -15,7 +15,8 @@ hugo
 cd public
 
 # Commit changes.
-msg="rebuilding site $(date --rfc-3339=seconds)"
+# Approximates `date --rfc-3339=seconds` on both OSX & Linux.
+msg="rebuilding site $(date "+%Y-%m-%d %H:%M:%S%z")"
 if [ -n "$*" ]; then
 	msg="$*"
 fi
