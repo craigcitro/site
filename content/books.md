@@ -8,19 +8,123 @@ type: "page"
 
 ## 2020
 
-####  *All the Pieces Fit*, (Hilo 6) by Judd Winick. 5/5
+#### *Best Writing on Mathematics 2019*, by Mircea Pitici (ed). 5/5
+
+#### *What's Happening in the Mathematical Sciences (vol 11)*, by Dana MacKenzie. 4/5
+
+#### *UNIX: A History and a Memoir*, by Brian Kernighan. 3/5
+
+This is a firsthand account of the history of UNIX at Bell Labs; there's some
+interesting commentary here (esp. around management), but it ended up a fairly
+dry read.
+
+#### *How to Read a Book*, by Mortimer Adler and Charles van Doren. 3/5
+
+This is an *odd* book, and I'd be wary about recommending it, but I definitely
+got something out of it.
+
+I feel like this book sets itself a lofty goal: if you wanted to send a young
+person out into the world, with the goal of being able to read and think
+critically about what they're reading, this book wants to impart everything
+they'll need.
+
+Of course, that's an impossible goal, but there are still a number of gems:
+
+*  a core takeaway is that it's impossible to really get everything out of a
+   book without spending time analyzing it before, during, and after you read
+   it; they obviously weren't the first to realize this, but they have a lot
+   to say about what you can do to get the most out of a book.
+*  they're quite explicit about the fact that not every book deserves a
+   cover-to-cover read.
+*  The sections on books of different genres are downright charming; the
+   section about the sciences holds up quite well.
+*  "But again, the difficult is not the impossible." is a great quote.
+
+There's also plenty to dislike: the book is easily twice as long as it needs
+to be, and the uniform use of only male pronouns is tedious (yeah, yeah, I get
+that "that's how it was" but it's still grating).
+
+#### *Annabel Scheme and the Adventure of the New Golden Gate*, by Robin Sloan. 4/5
+
+As always, a little off-the-wall, but fun and full of twists. The serial
+format was surprisingly enjoyable, though I didn't have the self-control to
+pace the book out over several days.
+
+#### *White Fragility*, by Robin DiAngelo. 5/5
+
+#### *All the Pieces Fit*, (Hilo 6) by Judd Winick. 5/5
 
 I'm always nervous about the end of a series, but *Hilo* totally delivers. I
 won't say anything to spoil the plot, but this one's good, clean fun I'd
 recommend to kids of any age.
 
+#### *The Old Guard, vol 2*, by Greg Rucka. 3/5
+#### *The Old Guard, vol 1*, by Greg Rucka. 4/5
+
+The first book gets credit for a really clever setup -- I've got many years of
+reading comics under my belt and it still struck me as a novel idea for a
+"superpower".
+
+The art is a little meh, and too much "oh look people are nude for no reason,
+it's Mature Content (TM)."
+
+I'm a little wary about being able to wrap this up in one more volume, but I'm
+still interested enough to read the third book. Right now my take is "the
+movie is a better format/pacing."
+
+#### *The Wild Storm (vol 1 - 4)*, by Warren Ellis. 2/5
+
+I'm a huge fan of reboots, but this was ... just as heavy as the original
+Wildstorm universe. Too many different characters, with several not really
+different from the original. Meh.
+
+#### *A Philosophy of Software Design*, by John Ousterhout. 2/5
+
+#### *The Phoenix Project*, by Gene Kim. 3/5
+
+This is ... fiction about software project management.
+
+#### *Grunge is Dead*, by Greg Prato. 1/5
+
+I was so ready to love this book -- but a third of the way in, it was still
+jumbled recountings of high schoolers getting into fights at concerts, and I
+had to give up.
+
 ## 2019
 
-####  *On the Come Up*, by Angie Thomas. 4/5
+#### *A Dream About Lightning Bugs*, by Ben Folds. 4/5
 
-####  *Sweep: The Story of a Girl and Her Monster*, by Jonathan Auxier. 4/5
+OK, I stan Ben Folds **way** too hard to give this one a fair review. There's
+a lot of honesty here, which makes for a compelling read. If you want some
+storytelling about Ben's life, it's great; if not, skip it.
 
-####  *Then Everything Went Wrong*, (Hilo 5) by Judd Winick. 5/5
+#### *Batman: The Killing Joke*, by Alan Moore. 3/5
+
+#### *On the Come Up*, by Angie Thomas. 4/5
+
+Not as good as _The Hate U Give_, but still a fun read. (Or maybe I'm a sucker
+for books about people trying to make it in the rap scene?)
+
+#### *Mind and Matter*, by John Urschel. 3/5
+
+I enjoyed this book, and hearing the account of a life in football was more
+compelling than I'd expected. He spends a lot of time setting up a contrast
+between college football ("play for love of the game") and pro football ("it's
+my job, balanced against all my other responsibilities in life"), and explains
+that it's part of the motivation for why he prefers doing math. However, that
+same contrast applies all the same to grad school life vs. being a academic,
+at least in my experience.
+
+#### *Sweep: The Story of a Girl and Her Monster*, by Jonathan Auxier. 4/5
+
+#### *Then Everything Went Wrong*, (Hilo 5) by Judd Winick. 5/5
+
+#### *Superman: Earth One (vol 1 - 3)*, by J. Michael Straczynski. 3/5
+
+#### *The Hate U Give*, by Angie Thomas. 5/5
+
+There are definitely flaws here, but I thought it did a great job at handling
+an impossibly thorny topic, especially for a YA audience.
 
 ## 2018
 
@@ -49,6 +153,17 @@ the presidency was in full swing, and gives a sense of how hard any progress
 is in government. Good, but it left me with a real sense of despair.
 
 #### *Waking the Monsters* (Hilo 4), by Judd Winick. 5/5
+
+#### *Bad Blood*, by John Carreyrou. 5/5
+
+I couldn't put this one down. I knew the punchline to the Theranos story
+before I read the book, and at one point, I was floored by just how out of
+control things were; I looked and noticed that I was only about 20% of the way
+into the book.
+
+#### *Python Interviews*, by Michael Driscoll. 1/5
+
+#### *Birth of a Theorem*, by Cedric Villani. 2/5
 
 ## 2017
 
@@ -725,6 +840,8 @@ son duo).
 Everyone loved this series, so I forced myself through two or three of these.
 I can't fathom why.
 
+#### *Silently and Very Fast*, by Catherynne M. Valente. 2/5
+
 #### *Startide Rising*, by David Brin. 1/5
 
 Much like my experience with *Sundiver* years ago, I made it about 15% of the
@@ -788,6 +905,13 @@ good sense for how much interest I have in the topic.
 #### *A Random Walk Down Wall Street*, by Burton Malkiel. 4/5
 
 Easy reading, but fun and well-done.
+
+#### *Annabel Scheme*, by Robin Sloan. 5/5
+
+I had **so** much fun reading this book. The book prioritized a fun story over
+details about the science, which was great, but I could see annoying some
+folks. But I think bananas and quantum computing are now forever tied together
+in my mind.
 
 #### *Thinking, Fast and Slow*, by Daniel Kahneman. 5/5
 
