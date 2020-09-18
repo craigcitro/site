@@ -8,9 +8,21 @@ type: "page"
 
 ## 2020
 
-#### *Best Writing on Mathematics 2019*, by Mircea Pitici (ed). 5/5
-
 #### *What's Happening in the Mathematical Sciences (vol 11)*, by Dana MacKenzie. 4/5
+
+This book reads like a book-length issue of the _Notices of the AMS_, which is
+just what I was looking for, and the topic selection was great. That said, I
+couldn't help but compare this to _Best Writing on Mathematics_, which I think
+is stronger for having a wide variety of authors contribute.
+
+#### *Best Writing on Mathematics 2019*, by Mircea Pitici (ed). 4/5
+
+I ran into this series by accident, and I'm so glad I did. There's a lot to
+enjoy about this book; the "guide to interesting math writing this year"
+in the introduction is a nice surprise. The writing quality is uniformly quite
+high, and I appreciate the clustering of semi-related articles.
+
+I can't wait to start working my way through some of the back issues.
 
 #### *UNIX: A History and a Memoir*, by Brian Kernighan. 3/5
 
