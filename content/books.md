@@ -8,6 +8,36 @@ type: "page"
 
 ## 2020
 
+#### *Espresso Coffee (2013)*, by David Schomer. 4/5
+
+If you're looking for guidance on how to improve your espresso, this is a
+great book. He details every step in the process, describing details of what's
+worked and what hasn't for his shop (Espresso Vivace). IIUC the first edition
+of this book made a case for using a PID controller, which is now the norm in
+my experience.
+
+The only gripe I have is that his audience is really folks running a
+coffeeshop -- for folks who make espresso once or twice a day, it's overkill.
+I would love it if he decided to write a "home espresso" book next, but I'm
+not holding my breath.
+
+Several tips here have already noticeably improved my espresso, so worth every
+penny.
+
+#### *Unstoppable*, by Adam Rex. 5/5
+
+#### *The Common Sense of Teaching Mathematics*, by Caleb Gattegno. 2/5
+
+My read is that someone gave Gattegno a syllabus, and said "think up
+interesting ways to teach this material." Some of the ideas are interesting,
+but they're clever ideas for a boring/strange syllabus. For example, the first
+section builds up to teaching kids about counting in bases other than 10. His
+setup is interesting -- but why on earth would you want to teach
+kindergarteners about counting in base 8?
+
+I ran into this book via [five
+books](https://fivebooks.com/best-books/alf-coles-teaching-maths/).
+
 #### *What's Happening in the Mathematical Sciences (vol 11)*, by Dana MacKenzie. 4/5
 
 This book reads like a book-length issue of the _Notices of the AMS_, which is
@@ -1075,3 +1105,29 @@ that doesn't make it any better. Be warned.
 * **2**: Some possibly interesting ideas, but I had to force myself to finish
   (or I gave up).
 * **1**: Actively avoid.
+
+## Miscellany
+
+I won't lie, I do enjoy a scathing book review.
+
+*  ["Everyone has a book inside
+   them"](https://www.theguardian.com/books/2000/sep/10/fiction.reviews2) is a
+   classic in the genre. This starts strong and pulls no punches.
+
+*  ["Excel Data
+   Analysis"](https://www.maa.org/press/maa-reviews/excel-data-analysis)
+
+*  This famous [rant about one year's Clarke award
+   nominees](https://christopher-priest.co.uk/hull-0-scunthorpe-3) has plenty
+   of gems.
+
+*  Wolfram's *A New Kind of Science* is a bit of an easy target, but there are
+   some amazing reviews; my favorites are [Steven
+   Krantz](https://www.ams.org/journals/bull/2003-40-01/S0273-0979-02-00970-9/S0273-0979-02-00970-9.pdf)
+   and [Melanie
+   Mitchell](https://melaniemitchell.me/EssaysContent/new-kind-of-science-review.pdf),
+   which both attempt to find some good in the mess, and the more direct
+   [Cosma Shalizi](http://bactra.org/reviews/wolfram/).
+
+*  If you have access to MathSciNet, [Exceptional MR
+   Reviews](https://math.ou.edu/~kmartin/mr.html) is worth a look.
