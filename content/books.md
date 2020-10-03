@@ -26,6 +26,9 @@ penny.
 
 #### *Unstoppable*, by Adam Rex. 5/5
 
+In fairness, this one may be funnier for parents than children, but still a
+solid choice for both audiences.
+
 #### *The Common Sense of Teaching Mathematics*, by Caleb Gattegno. 2/5
 
 My read is that someone gave Gattegno a syllabus, and said "think up
@@ -94,6 +97,24 @@ pace the book out over several days.
 
 #### *White Fragility*, by Robin DiAngelo. 5/5
 
+This one's been on my list for a while, but (unsurprisingly) made its way to
+the top of the list due to current events. Like several of the other books in
+this group, I suspect what you get out of this has a lot to do with your
+attitude going in.
+
+There was a lot that was new for me here, which is maybe a statement about how
+easy I have it: I can ignore racism, and it doesn't directly affect me. The
+most significant takeaway for me was reframing the discussion around
+*systemic* racism rather than a single person's actions or attitudes; I don't
+think this is new here, but it was new to me.
+
+I think the two topics were particularly well-done here, both centered around
+making conversation around racism more constructive. (This makes perfect
+sense, given her background.) First, she spent quite a bit of time unpacking
+why framing racism as a *binary* attribute makes discussion impossible.
+Second, she pointed out all the ways that focusing on reactions from white
+people when discussing racism can completely derail the conversation.
+
 #### *All the Pieces Fit*, (Hilo 6) by Judd Winick. 5/5
 
 I'm always nervous about the end of a series, but *Hilo* totally delivers. I
@@ -124,7 +145,9 @@ different from the original. Meh.
 
 #### *The Phoenix Project*, by Gene Kim. 3/5
 
-This is ... fiction about software project management.
+This is ... fiction about software project management. As a story, it was
+iffy, but that was really just a guise for lessons about how to manage work
+and teams. Points for being an interesting vehicle.
 
 #### *Grunge is Dead*, by Greg Prato. 1/5
 
