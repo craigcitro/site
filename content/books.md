@@ -8,6 +8,44 @@ type: "page"
 
 ## 2020
 
+#### *A Mathematician's Lament*, by Paul Lockhart. 4/5
+
+This is a classic, which I've [written about
+before](/posts/2009-06-28-lockharts-lament/). This is a book-length treatment;
+worth reading if you're interested, but the essay has all the main ideas.
+
+I think my commentary above stands up; maybe the only new thing that jumped
+out at me is his general disinterest/disdain in applications of mathematics --
+he goes out of his way to effectively define math as *pure* math. There's a
+lot of other interesting math out there.
+
+#### *Math from Three to Seven*, by Alexander Zvonkin. 4/5
+
+Anyone involved in teaching kids should read this book immediately.
+(**Especially** if you're teaching math.)
+
+On the face of it, this book is a list of activities for a math circle for
+young children. On that front, it's great: a number of interesting activities,
+along with references to sources for additional material. (*Polyhedron Models*
+by Wenninger is already a hit.)
+
+However, far more exciting than the activities is Zvonkin's commentary, both
+about what the kids take away from it, and his own experience.
+
+The real gem here is Zvonkin's understanding of how the kids experience these
+lessons. He recognizes something that's missing from basically all education
+for kids in my experience: the goal is getting kids to **think** about the
+problem themselves. Watching his patience in setting up a question, and
+letting them wrestle with it repeatedly over the span of weeks or months is
+awe-inspiring. His cynical-but-honest commentary on the impact of starting
+school is excellent.
+
+As to his own experience, he's delightfully honest, going out of his way to
+highlight the places where a lesson fell flat, or where his own emotions got
+in the way. Anyone with teaching experience knows how big a factor those can
+be, and it's nice to see someone being so frank about it. (Or maybe I'm saying
+I'm glad it's not just me.)
+
 #### *Espresso Coffee (2013)*, by David Schomer. 4/5
 
 If you're looking for guidance on how to improve your espresso, this is a
@@ -33,10 +71,10 @@ solid choice for both audiences.
 
 My read is that someone gave Gattegno a syllabus, and said "think up
 interesting ways to teach this material." Some of the ideas are interesting,
-but they're clever ideas for a boring/strange syllabus. For example, the first
-section builds up to teaching kids about counting in bases other than 10. His
-setup is interesting -- but why on earth would you want to teach
-kindergarteners about counting in base 8?
+but someone gave him a bad syllabus. For example, the first section builds up
+to teaching kids about counting in bases other than 10. His setup is
+interesting -- but why on earth would you want to teach kindergarteners about
+counting in base 8?
 
 I ran into this book via [five
 books](https://fivebooks.com/best-books/alf-coles-teaching-maths/).
