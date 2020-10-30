@@ -19,6 +19,10 @@ out at me is his general disinterest/disdain in applications of mathematics --
 he goes out of his way to effectively define math as *pure* math. There's a
 lot of other interesting math out there.
 
+That said, it's worth calling out that I'm a bit of a coward -- I'm sitting
+here and writing this, but Lockhart's gone out and devoted *his entire career*
+to fixing K-12 education. *whistles*
+
 #### *Math from Three to Seven*, by Alexander Zvonkin. 4/5
 
 Anyone involved in teaching kids should read this book immediately.
