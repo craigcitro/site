@@ -8,6 +8,13 @@ type: "page"
 
 ## 2020
 
+#### *Best Writing on Mathematics 2018*, by Mircea Pitici (ed). 4/5
+
+This is the second book I've read in this series, and I'm hooked. This volume
+was a bit heavier on the why and how of doing math than the 2019 volume, but
+had some excellent articles (including Francis Su's essay which is also now a
+book). The education articles were more immediately useful than I'd expected.
+
 #### *A Mathematician's Lament*, by Paul Lockhart. 4/5
 
 This is a classic, which I've [written about
