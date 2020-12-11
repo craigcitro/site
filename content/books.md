@@ -1078,13 +1078,74 @@ relationships.
 I read this expecting it to have aged poorly, but I was pleasantly surprised.
 This book is a nice example of just how well sci-fi can hold up over time.
 
+## 2008
+
+#### *The Local Langlands Conjecture for GL(2)*, by Bushnell and Henniart. 4/5
+
+This book is amazing; I wish I'd discovered and read it earlier, and that I'd
+used that as an excuse to do more representation theory. Incredibly clear
+exposition.
+
+#### *An Invitation to Arithmetic Geometry*, by D. Lorenzini. 4/5
+
+I never learned enough about function fields or curves; one day I found this
+book and realized it would have happily taught me a ton, along with a clear
+picture of the analogy between number fields and function fields over curves.
+
 ## 2007
 
-#### *Automorphic Forms on Adele Groups*, by S. Gelbart. 4/5
+#### *Modular Forms: a computational approach*, by W. Stein. 4/5
+
+I learned so much from this book. That includes learning all the concrete bits
+I thought I knew about modular forms but didn't, but also a lot about how to
+compute with modular forms in practice.
+
+#### *Automorphic Forms on Adele Groups*, by S. Gelbart. 3/5
+
+I learned a lot from this book, but I feel like I didn't give it enough time:
+we did a group reading course out of it, but I never came back to the material
+after that. It's especially interesting in that (AIUI) it was written *as*
+some of the material was still quite new; it's a good experience to see
+only-partly-formed material, especially if you have someone on hand who can
+tell you the end of the story.
+
+That said, I wish I'd spent time with Borel & Casselman instead: I might not
+have a "big picture" view, but I'd have a better handle on the bits I did
+learn.
+
+#### *Fourier Analysis on Number Fields*, by Ramakrishnan and Valenza. 4/5
+
+As they state in the introduction, they want to give you all the background
+you would need to read Tate's thesis, but probably wouldn't pick up in a
+"standard" algebraic number theory education. They do an excellent job -- this
+is the place to look for lots of things that aren't well-explained elsewhere.
+
+I also have a real soft spot for books that have a "fill-in-the-gaps" flavor,
+rather than "here's the eleventeenth book with the same title and table of
+contents, but ever-so-slightly different proofs."
+
+#### *$p$-adic numbers*, by F. Gouvea. 5/5
+
+I really enjoy Gouvea's writing, and this book is top-notch. It's an
+introduction to $p$-adic numbers (and a bit of $p$-adic analysis) that
+explains things in as down-to-earth a way as you could hope. Importantly,
+Gouvea isn't afraid to write down examples and details.
 
 ## 2006
 
 #### *Algebraic Number Theory*, by Jurgen Neukirch. 5/5
+
+I only read parts of this, but it's the book I wish I'd run into earlier in
+grad school: every part is interesting, and well-written to boot. The
+exercises are fantastic (though I've heard some are quite difficult). Feels
+more modern than Lang, but is definitely not for the faint of heart.
+
+#### *A First Course in Modular Forms*, by Diamond and Shurman. 5/5
+
+This is the modular forms book to read if you want to do algebraic number
+theory. Uses the Taniyama-Shimura conjecture (and Fermat's Last Theorem) to
+motivate the study of modular forms, and makes it all look easy. (And, of
+course, good exercises.)
 
 #### *Analytic Number Theory*, by Donald Newman. 2/5
 
@@ -1115,6 +1176,11 @@ That said, this book is heavy on the algebra and light on the geometry;
 reading this without balancing it out with something like Shafarevich will
 leave you with good technical chops and a lack of geometric intuition.
 
+#### *Representation Theory of Finite Groups*, by J-P Serre. 5/5
+
+As with all of Serre's books, it's terse, beautiful, and worth a read. I don't
+think I ever made it through the third section.
+
 #### *The Big Book of Barry Ween, Boy Genius*, by Judd Winick. 5/5
 
 I've read this one several times, and I thoroughly enjoy it every time. I
@@ -1123,7 +1189,32 @@ apparently still a 13-year old maturity-wise.
 
 ## 2004
 
+#### *Algebraic Number Theory*, by Lang. 3/5
+
+This is where I learned class field theory, and it does a solid job. In
+retrospect, I feel like I learned a lot about the "what" and less about the
+"why", but that could be my fault. I wouldn't start here for the basics on
+number fields, but the class field theory section was the intro for a whole
+generation.
+
+TBH, though, these days I'd say read Neukirch instead: it's clearer, it has
+better exercises, and it makes a better reference.
+
+#### *A Classical Introduction to Modern Number Theory*, by K. Ireland and M. Rosen. 5/5
+
+This book is fantastic -- as promised in the title, the authors take you from
+elementary number theory all the way to the Mordell-Weil theorem. The
+exercises are amazing, and worth the time. I was the TA for a course where we
+did a chapter a week, with the homework being "do all the exercises", and I
+can't describe just how much I learned.
+
 #### *Introduction to Commutative Algebra*, by Atiyah & MacDonald. 5/5
+
+I can't think of a more pleasant way to get comfortable with the basics of
+commutative algebra one needs for algebraic geometry than reading and doing
+all the exercises in this book. Marvelously well-written. Sadly, the current
+paperback edition is despicably overpriced for the quality of the printing;
+look online for a used hardback, it's worth it.
 
 #### *An Introduction to the Theory of the Riemann Zeta Function*, by S. J. Patterson. 4/5
 
@@ -1150,9 +1241,43 @@ If you think you might be interested in the mathematical travels of a
 mid-20th-century mathematician, get your hands on this and the companion
 picture volume (*I Have a Photographic Memory*).
 
+#### *Number Fields*, by D. Marcus. 4/5
+
+This was the book where I learned the basics of algebraic number theory; it's
+another "do all the exercises" one, and you won't be sorry. Totally global (no
+$p$-adics at all!), which is a bummer, but fantastic for what it is. Happily,
+it's recently had a new edition which was rewritten in LaTeX.
+
+#### *Number Theory*, by Borevich and Shafarevich. 4/5
+
+I only read bits of this book, in part because I realized I wasn't going to
+work in analytic number theory. It has a much more "hands-on" feel than most
+algebraic number theory books (in part because it also covers a lot of
+analytic material).
+
 ## 2003
 
+#### *Algebra*, by S. Lang. 5/5
+
+I have mixed feelings about some of Lang's books, but this one is a gem. I
+believe I read every section fo this book at some point in my first three years
+of grad school, and got something out of every single one. I can't imagine
+trying to *learn* the basics here, but it's the place I'd go to re-learn any
+part (and discover what I missed the first time). The later chapters are
+filled with interesting stuff, too.
+
+#### *A Course in Arithmetic*, by J. P. Serre. 5/5
+
+This book is a delight. Serre gives an intro to modern number theory: five
+chapters on the p-adics and the local-global principle for quadratic forms,
+a chapter with Dirichlet's proof on primes in arithmetic progressions, and a
+chapter introducing modular forms of level 1. Serre is a *masterful*
+expositor; his style is definitely *terse*, but worth the effort.
+
 #### *Introduction to Analytic and Probabilistic Number Theory*, by G. Tenenbaum. 5/5
+
+I only spent time with the first two chapters, but there's so much in this
+book. The beginning is dense, but well-written.
 
 #### *Uncle Petros and the Goldbach Conjecture*, by Apostolos Doxiadis. 3/5
 
