@@ -1274,6 +1274,11 @@ a chapter with Dirichlet's proof on primes in arithmetic progressions, and a
 chapter introducing modular forms of level 1. Serre is a *masterful*
 expositor; his style is definitely *terse*, but worth the effort.
 
+To expound a little: if you think of understanding a proof as a long journey,
+Serre's exposition is "shooting the azimuth": for each high point in the
+proof, he gives you a clear sense of "the next step is in this direction, and
+it's a bit far away, but here's what you'll need".
+
 #### *Introduction to Analytic and Probabilistic Number Theory*, by G. Tenenbaum. 5/5
 
 I only spent time with the first two chapters, but there's so much in this
