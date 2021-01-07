@@ -8,6 +8,37 @@ type: "page"
 
 ## 2020
 
+#### *Best Writing on Mathematics 2020*, by Mircea Pitici (ed). 4/5
+
+This series continues to be fantastic, and is worth a read. 
+
+My favorite article was definitely _The Inescapable Casino_. The article's
+broader point is sobering, and TBH I'm still digesting it. However, it also
+had an incidental probability puzzle that tripped me up at first: if you have
+a game with positive expected value, my gut instinct is that you want to play
+that game as much as possible. However, it turns out there's a subtlety! 
+* If the game has a fixed wager, you want to keep playing as much as possible.
+* If the wager and stakes are proportional to your current fortune, you need
+  to calculate differently! This is because the expected gains and losses in
+  later rounds are no longer independent of earlier rounds.
+
+Let's call these "additive" and "multiplicative" versions of the game; a
+winning additive game may well be a losing multiplicative game. This is easy
+to work out once you realize it, but was surprising to me -- I've never run
+into this before! (Amusingly, I noticed Andrew Gelman making basically the
+same mistake [on his
+blog](https://statmodeling.stat.columbia.edu/2020/12/19/in-this-particular-battle-between-physicists-and-economists-im-taking-the-economists-side/),
+so I don't feel as bad.)
+
+#### *Make it Stick*, by Brown, Roediger, and McDaniel. 3/5
+
+There's definitely some interesting content here, but it's about one (short)
+chapter of interesting content dressed up with about seven chapters of fluff,
+to fill it out to "normal book" length. If there's a TED Talk version of this,
+it's a much better use of your time.
+
+#### *Three Keys*, by Kelly Yang. 4/5
+
 #### *Best Writing on Mathematics 2018*, by Mircea Pitici (ed). 4/5
 
 This is the second book I've read in this series, and I'm hooked. This volume
@@ -206,13 +237,24 @@ had to give up.
 
 ## 2019
 
+#### *Front Desk*, by Kelly Yang. 4/5
+
 #### *A Dream About Lightning Bugs*, by Ben Folds. 4/5
 
 OK, I stan Ben Folds **way** too hard to give this one a fair review. There's
 a lot of honesty here, which makes for a compelling read. If you want some
 storytelling about Ben's life, it's great; if not, skip it.
 
-#### *Batman: The Killing Joke*, by Alan Moore. 3/5
+#### *Batman: The Killing Joke*, by Alan Moore. 4/5
+
+I originally read this in middle school, and I remember being pretty blown
+away; I was pretty underwhelmed on rereading it.
+
+That said, I think this feeling "meh" may be a sign of Moore's impact. IIRC,
+part of what made this book groundbreaking was making the Joker a more nuanced
+and three-dimensional character. Here in 2019, I can take that for granted,
+since it's commonplace; I suspect Moore (and this book in particular) having
+been an influence on so many of today's writers is *why* it's commonplace.
 
 #### *On the Come Up*, by Angie Thomas. 4/5
 
