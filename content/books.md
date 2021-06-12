@@ -6,6 +6,63 @@ type: "page"
 
 [explanation of ratings](#ratings)
 
+## 2021
+
+#### *Idea Makers*, by Stephen Wolfram. 0/5
+
+This book is utter trash.
+
+I tried to give this a fair shake, but it's worse than I expected. As a
+sample, he describes von Neumann as an unoriginal thinker, and a bit of a
+dilettante. I'm sad the content is so atricious, because the print quality is
+actually quite excellent.
+
+#### *Staff Engineer*, by Will Larson. 1/5
+
+#### *How Buildings Learn*, by Stewart Brand. 4/5
+
+If you have even the slightest interest in this book, dive in.
+
+There was so much to enjoy about this book. He hits on several fundamental
+points: 
+
+* separating designers of an object from users makes for grandoise but useless
+  objects
+* uses for an object changes over time
+* incentives matter
+
+He details the way this has influenced buildings over time, but the same
+lessons apply with virtually zero change in software.
+
+One important note: I took a while to get into it because I made the mistake
+of trying to read it electronically; this book is definitely best enjoyed as a
+physical book.
+
+#### *Gina, the Girl Who Broke the World (Hilo 7)*, by Judd Winick. 4/5
+
+#### *Original Gangstas*, by Ben Westhoff. 2/5
+
+I'm not quite sure why this book exists: it reads like a book report, and it
+doesn't really have a purpose or a story it's trying to tell. The author
+clearly spent plenty of time interviewing everyone in the orbit of the LA rap
+scene, which is admirable, but there wasn't much here -- and I say that as the
+obvious target audience for this book.
+
+I first ran into the author in an [excellent podcast
+interview](https://conversationswithtyler.com/episodes/ben-westhoff/), and I'm
+still interested to read his book on the opioid crisis, but maybe a little
+less so than I was before this book.
+
+#### *Letters to a Young Scientist*, by E. O. Wilson. 2/5
+
+There's some stuff I enjoyed here, but all in all, I'm not sure what the goals
+were for this book.
+
+The bulk of the book was advice about how to build a career as a scientist,
+almost exclusively of the form "well, here's what I did, so you should do
+the same and you'll succeed, too." This is the worst kind of advice, even when
+it's offered with the best of intentions.
+
 ## 2020
 
 #### *Best Writing on Mathematics 2020*, by Mircea Pitici (ed). 4/5
