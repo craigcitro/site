@@ -8,6 +8,27 @@ type: "page"
 
 ## 2021
 
+#### *Shape*, by Jordan Ellenberg. 3/5
+
+When I used to teach, I'd occasionally end up giving an overview lecture,
+where I'd tie together all the previous topics we'd talked about, giving what
+(to me) felt like a spectacular bird's eye view.
+
+Reading this book, now I know how my students felt -- but not in a good way.
+There's really good content here, and it's well written, but it feels ...
+disconnected. (Pun intended!) But the goal here is explaining how all these
+disparate topics tie together, and at least for me, it didn't work.
+
+Writing a pop math book feels impossibly hard: you want to make the material
+approachable without much background, but still retain real technical content.
+This book seems like it's in that uncanny valley where I think it's asking a
+lot of readers without existing background in math, but too light for anyone
+who's already familiar with the topics.
+
+That said, if you're mathematically inclined and looking for some fun
+historical anecdotes and a tour of different topics that all have something to
+do with geometry, it's a fun read.
+
 #### *Idea Makers*, by Stephen Wolfram. 0/5
 
 This book is utter trash.
@@ -40,7 +61,7 @@ physical book.
 
 #### *Gina, the Girl Who Broke the World (Hilo 7)*, by Judd Winick. 4/5
 
-#### *Original Gangstas*, by Ben Westhoff. 2/5
+#### *Original Gangstas*, by Ben Westhoff. 1/5
 
 I'm not quite sure why this book exists: it reads like a book report, and it
 doesn't really have a purpose or a story it's trying to tell. The author
@@ -53,7 +74,7 @@ interview](https://conversationswithtyler.com/episodes/ben-westhoff/), and I'm
 still interested to read his book on the opioid crisis, but maybe a little
 less so than I was before this book.
 
-#### *Letters to a Young Scientist*, by E. O. Wilson. 2/5
+#### *Letters to a Young Scientist*, by E. O. Wilson. 1/5
 
 There's some stuff I enjoyed here, but all in all, I'm not sure what the goals
 were for this book.
