@@ -8,6 +8,14 @@ type: "page"
 
 ## 2021
 
+#### *Project Hail Mary*, by Andy Weir. 4/5
+
+This was a great time.
+
+He really channeled the same "nerdy fun" energy of _The Martian_, which was
+good fun, though maybe a worry for future books. (I dunno, though, I'd happily
+read a half-dozen more variants on this story.)
+
 #### *Shape*, by Jordan Ellenberg. 3/5
 
 When I used to teach, I'd occasionally end up giving an overview lecture,
