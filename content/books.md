@@ -8,6 +8,17 @@ type: "page"
 
 ## 2021
 
+#### *The Leprechauns of Software Engineering*, by Laurent Bossavit. 4/5
+
+I wish I could convince more people to read this book. The main point it makes
+is one I'm a sucker for: blindly trusting what people say is bad, but blindly
+*repeating* what people say and calling it science is awful. Better yet,
+rather than playing the blame game, the author frames the discussion around
+ways to be aware of this, and how to avoid it in the future.
+
+If I actually did software engineering research, I think I'd probably hand
+this book out to everyone I met professionally as a party favor.
+
 #### *Project Hail Mary*, by Andy Weir. 4/5
 
 This was a great time.
