@@ -8,6 +8,22 @@ type: "page"
 
 ## 2021
 
+#### *Calling Bullshit*, by Carl Bergstrom and Jevin West. 4/5
+
+This is an excellent book; it has some flaws common to so much nonfiction, but
+it's still great. I suspect many a bright-eyed highschooler or college age kid
+could get a lot out of this book.
+
+My only real gripe here is that the audience most likely to get something out
+this book is the least likely to ever read or really appreciate it. There's
+also the common problem that the authors want to make the book appeal to a
+broad audience, so end up spending several chapters covering background (eg
+basics of statistics) that I suspect is filler for the bulk of their readers.
+
+Probably my favorite feature of the book is that it's not another "let's pick
+a topic and complain about it" -- the book is structured around constructive
+solutions to the problem of the world being awash in bullshit.
+
 #### *The Leprechauns of Software Engineering*, by Laurent Bossavit. 4/5
 
 I wish I could convince more people to read this book. The main point it makes
