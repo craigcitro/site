@@ -21,10 +21,10 @@ really enjoyed.
 
 Choice quote: 
 
-    The realms of advertising and of public relations, and the
-    nowadays closely related realm of politics, are replete with instances of
-    bullshit so unmitigated that they can serve among the most indisputable and
-    classic paradigms of the concept.
+> The realms of advertising and of public relations, and the nowadays closely
+> related realm of politics, are replete with instances of bullshit so
+> unmitigated that they can serve among the most indisputable and classic
+> paradigms of the concept.
 
 #### *Calling Bullshit*, by Carl Bergstrom and Jevin West. 4/5
 
