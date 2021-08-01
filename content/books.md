@@ -8,6 +8,24 @@ type: "page"
 
 ## 2021
 
+#### *On Bullshit*, by Harry G. Frankfurt. 4/5
+
+I found this via *Calling Bullshit*, and Amazon happily offered to sell me a
+handsome hardcover for $6 when I ordered the former. I'm quite happy I did;
+this book is a fairly crisp and detailed examination of what we mean by
+"bullshit", which I didn't realize was valuable until I'd read it. (In
+particular, making it clear to draw a distinction between bullshit and lying.) 
+
+There's a particular crispness to the text that's hard to characterize, but I
+really enjoyed.
+
+Choice quote: 
+
+    The realms of advertising and of public relations, and the
+    nowadays closely related realm of politics, are replete with instances of
+    bullshit so unmitigated that they can serve among the most indisputable and
+    classic paradigms of the concept.
+
 #### *Calling Bullshit*, by Carl Bergstrom and Jevin West. 4/5
 
 This is an excellent book; it has some flaws common to so much nonfiction, but
