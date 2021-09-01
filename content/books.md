@@ -8,6 +8,15 @@ type: "page"
 
 ## 2021
 
+#### *Best Writing on Mathematics 2010*, by Mircea Pitici (ed). 4/5
+
+I love this series; I'm now just starting at the beginning and catching up.
+There's a lot to love in this one, but the standouts for me were "Knowing When
+to Stop" by Theodore Hill and "Circle Packing" by Philip Bowers. And, of
+course, the foreword is by Thurston, so is a gem.
+
+I am so, so glad Pitici compiles these volumes.
+
 #### *On Bullshit*, by Harry G. Frankfurt. 4/5
 
 I found this via *Calling Bullshit*, and Amazon happily offered to sell me a
