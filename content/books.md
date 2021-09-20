@@ -8,6 +8,17 @@ type: "page"
 
 ## 2021
 
+#### *Why the Professor Can't Teach*, by Morris Kline. 2/5
+
+This book is quite bad: it consists of longwinded claims that are not
+obviously without merit, with weak arguments presented in bad faith. It's
+surprising that they didn't go with a _Wizard of Oz_ themed-cover, given that
+virtually all of the characters he presents are strawmen.
+
+Despite how terrible the book is, I *do* think there are some topics in here
+worth discussing; based on the book, I don't think Kline has anything to offer
+in the conversation.
+
 #### *Best Writing on Mathematics 2010*, by Mircea Pitici (ed). 4/5
 
 I love this series; I'm now just starting at the beginning and catching up.
