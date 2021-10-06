@@ -8,6 +8,26 @@ type: "page"
 
 ## 2021
 
+#### *The Evolution of Cooperation*, by Robert Axelrod. 3/5
+
+Scientists trying to understand a hard problem often distill out some toy
+version they can fully understand, hoping for a foothold on the original
+question.
+
+Here Axelrod does this for human behavior, with the toy problem being
+simulation via the Iterated Prisoner's Dilemma. He finds several interesting
+things, notably that one simple strategy (`TIT FOR TAT` in the book, though
+IMO a better name is `COPYCAT`) is robust in many ways. I do think there are
+several interesting lessons to be gleaned here, which he explores.
+
+However, parts of the book take this a bit far, suggesting that this gives
+deep insight into questions about evolution or how nations should interact
+with one another. This is a common trap, forgetting that the toy problem is
+not the original one, and I believe a large amount of frustration with the
+book is rooted here.
+
+Worth a read, but not mind-blowing.
+
 #### *Why the Professor Can't Teach*, by Morris Kline. 2/5
 
 This book is quite bad: it consists of longwinded claims that are not
